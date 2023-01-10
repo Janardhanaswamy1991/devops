@@ -3,3 +3,4 @@ PROGRAM ID
 data division
 PROCEDURE DIVISION
 display "jana"
+DISPLAY "JANA"
