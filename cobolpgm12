@@ -1,4 +1,5 @@
-identification division
-program id
+IDENTIFICATION DIVISION
+PROGRAM ID
 data division
 PROCEDURE DIVISION
+display "jana"
